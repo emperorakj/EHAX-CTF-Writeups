@@ -1,7 +1,9 @@
 # I LOVE CHATTING
 
 **Points:** 274  
-**Category:** Crypto 
+
+**Category:** Crypto
+
 **Author:** Sleepvendra
 
 ## Challenge Description
