@@ -1,7 +1,9 @@
 # Flappy Memory
 
 **Points:** 500  
+
 **Category:** Reverse Engineering
+
 **Author** NotOptimus
 
 ## Challenge Description
