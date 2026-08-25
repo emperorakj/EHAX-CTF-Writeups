@@ -41,7 +41,10 @@ By carefully watching the 'handout.txt' file, I observed that each paragraph end
 👬
 ```
 
-After identification, I realized it's BASE100 and by Decoding the emojis I figured out the **FLAG**.
+After identification, I realized it's BASE100 and by Decoding the emojis I figured out the **FLAG** (USED AI FOR THE SAME)
+
+<img width="1057" height="532" alt="image" src="https://github.com/user-attachments/assets/a27b25c9-ab73-4eea-a870-3bef0a4b91ba" />
+
 
 ## CHALLENGES
 
