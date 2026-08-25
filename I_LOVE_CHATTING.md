@@ -43,6 +43,16 @@ By carefully watching the 'handout.txt' file, I observed that each paragraph end
 
 After identification, I realized it's BASE100 and by Decoding the emojis I figured out the **FLAG**.
 
+## CHALLENGES
+
+The main difficulties were:
+
+- Recognizing the emojis as the actual hiding mechanism.
+- Realizing that the paragraph text was essentially camouflage.
+- Identifying **Base100** as the encoding.
+- Extracting the emoji sequence correctly before decoding it.
+
+
 ## FLAG
 
 EHAX{d1d_y0u_r4a11y_f1nd_th3_f1ag}
