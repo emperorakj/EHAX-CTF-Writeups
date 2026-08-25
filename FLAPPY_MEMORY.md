@@ -1,6 +1,6 @@
 # Flappy Memory
 
-**Points:** 500  
+**Points:** 484  
 
 **Category:** Reverse Engineering
 
